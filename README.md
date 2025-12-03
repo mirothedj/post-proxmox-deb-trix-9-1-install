@@ -1,3 +1,6 @@
+
+# co-Author: Below, under security assessment, is what I have changed and done to the code as I got from below the original author.
+As our instructions for an easy copy paste into or save as your own script and to be modified for future editions that way you know you've got clean script.
 Security Assessment
 I have reviewed the script code you provided line-by-line.
  * Verdict: Clean / Safe.
